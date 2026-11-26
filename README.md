@@ -1,0 +1,1 @@
+SparkBox has been temporarily taken down. I have been approved for Cyber Verification Program - Defense, and I am going to scan all my AI generated code with Mythos 5.2 to ensure there are no vulnerabilities. Please stand by.
